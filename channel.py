@@ -1,0 +1,7 @@
+print('Welcome to my Youtube Channel:')
+name = input("What is your name? \n")
+print("Nice to meet you \n" + name)
+age = input("How old are you?  \n")
+print("WOW you still a baby \n" )
+channel = input('This channel about python! if yo like python say Yes or No \n')
+print("You will have fun with US!!!!!! \n" )
